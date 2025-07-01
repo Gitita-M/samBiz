@@ -1,2 +1,1 @@
-# samBiz
-This is a Frappe Framework project for a client called Sam that needs an ERP system to manage his company affairs. We will be developing the open source software called ERPNext as we learn how to develop along the way.
+ERPNext is the software we are trying to build with this project for a dummy company, can you believe that. Let's see how it goes.
